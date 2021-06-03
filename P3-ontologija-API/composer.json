@@ -1,0 +1,23 @@
+{
+    "name": "svalina-php/projekt",
+    "description": "Kreiranje REST API za projektni zadatak iz P3.",
+    "type": "project",
+    "authors": [{
+        "name": "Ivana Svalina",
+        "email": "isvalina@ffos.hr"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Svalina\\": "src/Svalina"
+        }
+    },
+    "require": {
+        "mikecao/flight": "^1.3",
+        "doctrine/orm": "*",
+        "easyrdf/easyrdf": "^1.0",
+        "ml/json-ld": "^1.2",
+        "semsol/arc2": "^2.5",
+        "symfony/serializer": "*",
+        "symfony/property-access": "*"
+    }
+}

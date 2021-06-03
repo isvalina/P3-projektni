@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ontologija za P3</string>
+    <string name="REST_URL">https://oziz.ffos.hr/nastava20202021/isvalina_20/ontologija/search/</string>
+    <string name="app_label">P3 Ontologija</string>
+</resources>
